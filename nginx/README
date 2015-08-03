@@ -1,0 +1,2 @@
+sudo ln -s <full path to photostore file here> /etc/nginx/sites-enabled/photostore
+sudo ln -s <full path to photostore file here> /etc/nginx/sites-available/photostore
